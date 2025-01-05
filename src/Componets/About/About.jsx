@@ -22,7 +22,7 @@ function About() {
           <img
             src={myImage}
             alt="..."
-            className=" w-[240px] cursor-pointer rounded-full shadow-xl
+            className=" w-[230px] cursor-pointer rounded-full shadow-xl
                     shadow-indigo-900 transition-all duration-300 hover:translate-y-5 
                     hover:scale-105 hover:shadow-2xl hover:shadow-indigo-600 
                     md:w-[350px]"
