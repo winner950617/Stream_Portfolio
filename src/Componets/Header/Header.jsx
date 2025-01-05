@@ -13,7 +13,7 @@ function Header() {
   return (
     <nav
       className="fixed top-0 z-10 flex w-full items-center 
-    justify-between bg-black/70 px-5 py-6 text-white
+    justify-between bg-black/70 lg:px-5 md:px-0 sm:px-10 px-5 py-6 text-white
     backdrop-blur-md md:justify-evenly"
     >
       <a
@@ -47,6 +47,13 @@ function Header() {
         >
           {" "}
           <li>Project</li>{" "}
+        </a>
+        <a
+          href="#education"
+          className="cursor-pointer opacity-75 transition-all duration-300 hover:opacity-100"
+        >
+          {" "}
+          <li>Education</li>{" "}
         </a>
         <a
           href="#contact"
@@ -105,7 +112,7 @@ function Header() {
                        isOpen ? "block" : "hidden"
                      }`}
         >
-          <ul className="flex flex-col gap-8">
+          <ul className="flex flex-col gap-7">
             <a
               href="#home"
               className="cursor-pointer opacity-75 transition-all duration-300 hover:opacity-100"
@@ -126,6 +133,13 @@ function Header() {
             >
               {" "}
               <li>Project</li>{" "}
+            </a>
+            <a
+              href="#education"
+              className="cursor-pointer opacity-75 transition-all duration-300 hover:opacity-100"
+            >
+              {" "}
+              <li>Education</li>{" "}
             </a>
             <a
               href="#contact"

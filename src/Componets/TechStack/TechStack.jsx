@@ -1,6 +1,6 @@
 import { motion } from 'motion/react'
 import React from 'react'
-import {BiLogoHtml5,BiLogoCss3, BiLogoBootstrap, BiLogoJavascript, BiLogoNodejs, BiLogoReact, BiLogoTailwindCss,BiLogoJava,BiLogoMongodb } from 'react-icons/bi'
+import {BiLogoHtml5,BiLogoCss3, BiLogoBootstrap,BiLogoTailwindCss, BiLogoJavascript, BiLogoReact, BiLogoNodejs,BiLogoJava,BiLogoMongodb } from 'react-icons/bi'
 import { GrMysql } from 'react-icons/gr'
 import { SiExpress } from 'react-icons/si'
 
@@ -65,8 +65,9 @@ function TechStack() {
                 
 
                 <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
-                  <BiLogoJava className='cursor-pointer text-[80px] text-red-500 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
+                  <BiLogoJava className='cursor-pointer text-[80px] text-blue-500 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
                 </motion.div>
+              
                  
                  
 
