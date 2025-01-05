@@ -9,8 +9,8 @@ const projectArray=[
     {
         image:weather,
         title:'Weather App',
-        description:'I developed a responsive weather app using React.js, providing real-time weather updates with an intuitive and user-friendly interface.',
-        techstack:["React","CSS",'JavaScript'],
+        description:'I developed a responsive weather app using React.js, providing real-time weather updates for all cities in the world with an intuitive and user-friendly interface.',
+        techstack:["React","CSS"],
         dlink:"https://weather-app-delta-ebon.vercel.app/",
         clink:"https://github.com/MOwaisAzizi/Weather-App"
     },
@@ -28,8 +28,8 @@ const projectArray=[
     {
         image:Lib,
         title:'Library',
-        description:'I developed a user-friendly interface Library management app to store your favorite book in Firebase and search, retrieve after comming later.',
-        techstack:["React","CSS","Firebase","JavaScript"],
+        description:'I developed a user-friendly interface Library management app to store your favorite book in Firebase database and see, search and retrieve after comming later for your books.',
+        techstack:["React","CSS","Firebase"],
         dlink:"http://library-isos.vercel.app",
         clink:"https://github.com/MOwaisAzizi/library"
     },
@@ -45,7 +45,7 @@ const projectArray=[
     {
         image:pizza,
         title:'Pizza',
-        description:'I developed a user-friendly interface Pizza online shope in order to buy your favorite piza, put it in your basket and order it if you want.',
+        description:'I developed a user-friendly interface Pizza online shope in order to buy your favorite piza, put it in your basket as much as you want and order it if you want.',
         techstack:["React","CSS","tailwind"],
         dlink:"https://fast-ract-pizza-v2.vercel.app",
         clink:"https://github.com/MOwaisAzizi/fast-react-pizza-v2"
@@ -53,7 +53,7 @@ const projectArray=[
     {
         image:shop,
         title:'Online Shope',
-        description:'I created an interactive and responsive online Shope using React.js, offering an efficient performance and ability to shope online. It feature seamless navigation, fast load times, and dynamic shope browsing.',
+        description:'I created an interactive and responsive online Shope using React.js, offering an efficient performance and ability to shope online. It feature seamless navigation, fast load times, and dynamic shope browsing and fake payment.',
         techstack:["React","CSS",'JavaScript','BootStrap'],
         dlink:"http://online-market-phi.vercel.app",
         clink:"https://github.com/MOwaisAzizi/Online-Market"

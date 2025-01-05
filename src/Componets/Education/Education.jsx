@@ -1,9 +1,7 @@
 import React from 'react'
 import { motion } from 'motion/react'
 
-//Education
 
-//educatio part
 function Education() {
 
   const variants={
@@ -45,7 +43,7 @@ function Education() {
             University of Herat
           </h3>
           <time className='block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500'>
-            Bachelor of Software Engineering Degree <br />
+            Bachelor of Computer Scince(Software Engineering) Degree <br />
           </time>
           <span className='font-semibold block mb-2 text-sm leading-none text-gray-400 dark:text-gray-500'>
             (Undergraduate)
