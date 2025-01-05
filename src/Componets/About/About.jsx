@@ -6,7 +6,6 @@ import cvFile from "../../assets/document/CV.pdf";
 import { FaDownload } from "react-icons/fa6";
 
 function About() {
-  console.log('testgin');
   
   return (
     <section
@@ -51,7 +50,7 @@ function About() {
           </h3>
 
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            I am a full-stack developer in the process of learning and refining
+            I am a full-stack developer in the process of applying
             my skills in both front-end and back-end technologies. With
             experience in JavaScript, React, Node.js, and more, I focus on
             building responsive, user-friendly web applications. My portfolio
