@@ -39,7 +39,8 @@ const projectArray=[
         title:'Mapty',
         description:'I developed a mapty website using JavaScrp, featuring a dynamic, user-friendly interface for showing different locations and abilty to store your activity in locations and see it after comming later.',
         techstack:["HTML","CSS","JavaScript(OOP)"],
-        dlink:"https://bhawa2024.com",
+        dlink:"https://mapty-gules.vercel.app",
+        dlink:"https://github.com/MOwaisAzizi/Mapty-ToDoList"
         
     },
     {
@@ -47,7 +48,7 @@ const projectArray=[
         title:'Pizza',
         description:'I developed a user-friendly interface Pizza online shope in order to buy your favorite piza, put it in your basket as much as you want and order it if you want.',
         techstack:["React","CSS","tailwind"],
-        dlink:"https://fast-ract-pizza-v2.vercel.app",
+        dlink:"https://fast-react-pizza-v2.vercel.app/",
         clink:"https://github.com/MOwaisAzizi/fast-react-pizza-v2"
     },
     {
