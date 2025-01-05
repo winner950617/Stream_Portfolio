@@ -18,7 +18,7 @@ function Education() {
           initial="hidden"
           whileInView="visible"
           transition={{duration:0.5}}
-      className='text-center text-5xl font-semibold mb-20'>Eduactions and sliks</motion.h2>
+      className='text-center text-5xl font-semibold mb-20'>Eduactions</motion.h2>
 
       <motion.ol 
         variants={variants}

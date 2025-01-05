@@ -7,7 +7,6 @@ import Contact from './Componets/Contact/Contact'
 import Footer from './Componets/Footer/Footer'
 import Education from './Componets/Education/Education'
 
-//app
 export default function App() {
   return (
     <>
