@@ -22,7 +22,7 @@ function About() {
           <img
             src={myImage}
             alt="..."
-            className=" w-[250px] cursor-pointer rounded-full shadow-xl
+            className=" w-[240px] cursor-pointer rounded-full shadow-xl
                     shadow-indigo-900 transition-all duration-300 hover:translate-y-5 
                     hover:scale-105 hover:shadow-2xl hover:shadow-indigo-600 
                     md:w-[350px]"
@@ -37,7 +37,7 @@ function About() {
         >
           <h1
             className="bg-gradient-to-r from-blue-500 to-pink-500 
-                     bg-clip-text text-transparent text-5xl font- md:text-6xl"
+                     bg-clip-text text-transparent text-4xl font- md:text-6xl"
           >
             Mohammad Owais Azizi
           </h1>
