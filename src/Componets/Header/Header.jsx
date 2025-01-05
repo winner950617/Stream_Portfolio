@@ -4,6 +4,7 @@ import { BsGithub, BsLinkedin } from "react-icons/bs";
 import { FaFileAlt } from "react-icons/fa";
 
 function Header() {
+  //state for nav control
   const [isOpen, setIsopen] = useState(false);
 
   const menuOpen = () => {

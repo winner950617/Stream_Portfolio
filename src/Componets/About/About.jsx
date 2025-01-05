@@ -6,6 +6,8 @@ import cvFile from "../../assets/document/CV.pdf";
 import { FaDownload } from "react-icons/fa6";
 
 function About() {
+  console.log('testgin');
+  
   return (
     <section
       id="home"

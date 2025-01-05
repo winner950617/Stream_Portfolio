@@ -4,7 +4,6 @@ import {BiLogoHtml5,BiLogoCss3, BiLogoBootstrap, BiLogoJavascript, BiLogoNodejs,
 import { GrMysql } from 'react-icons/gr'
 import { SiExpress } from 'react-icons/si'
 
-//Skill part
 function TechStack() {
 
     const variants={
