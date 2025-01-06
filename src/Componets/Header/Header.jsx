@@ -108,7 +108,7 @@ function Header() {
         <div
           className={`fixed md:hidden right-0 top-[84px] flex h-screen w-1/2 
                     flex-col items-start justify-start gap-10 border-l
-                     border-gray-800 bg-black/90 p-12 ${
+                     border-gray-800 bg-black/90 p-10 ${
                        isOpen ? "block" : "hidden"
                      }`}
         >
@@ -156,20 +156,20 @@ function Header() {
               target="_blank"
             >
               {" "}
-              <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-sky-600 hover:opacity-100">
+              <li className="cursor-pointer text-xl opacity-80 transition-all duration-300 hover:text-sky-600 hover:opacity-100">
                 {" "}
                 <BsLinkedin />{" "}
               </li>
             </a>
             <a href="https://github.com/MOwaisAzizi" target="_blank">
-              <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-sky-500 hover:opacity-100">
+              <li className="cursor-pointer text-xl opacity-80 transition-all duration-300 hover:text-sky-500 hover:opacity-100">
                 {" "}
                 <BsGithub />{" "}
               </li>
             </a>
             <a href="https://flowcv.com/resume/ao3k3188fp" target="_blank">
               {" "}
-              <li className="cursor-pointer text-xl opacity-70 transition-all duration-300 hover:text-sky-500 hover:opacity-100">
+              <li className="cursor-pointer text-xl opacity-80 transition-all duration-300 hover:text-sky-500 hover:opacity-100">
                 {" "}
                 <FaFileAlt />{" "}
               </li>
