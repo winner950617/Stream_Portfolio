@@ -37,7 +37,7 @@ const projectArray=[
     {
         image:mapty,
         title:'Mapty',
-        description:'I developed a mapty website using JavaScrp, featuring a dynamic, user-friendly interface for showing different locations and abilty to store your activity in locations and see it after comming later.',
+        description:'I developed a mapty website using JavaScrp, featuring a dynamic, user-friendly interface for showing different locations in the world and abilty to store your activity in locations and see it after comming later.',
         techstack:["HTML","CSS","JavaScript(OOP)"],
         dlink:"https://mapty-gules.vercel.app",
         dlink:"https://github.com/MOwaisAzizi/Mapty-ToDoList"
