@@ -66,7 +66,7 @@ function Header() {
 
       <ul className="hidden md:flex gap-10">
         <a
-          href="https://www.linkedin.com/in/m-owais-azizi-7440532b4"
+          href="https://www.linkedin.com/in/m-o-azizi"
           target="_blank"
         >
           {" "}
@@ -152,7 +152,7 @@ function Header() {
 
           <ul className="flex flex-wrap gap-7">
             <a
-              href="https://www.linkedin.com/in/m-owais-azizi-7440532b4"
+              href="https://www.linkedin.com/in/m-o-azizi"
               target="_blank"
             >
               {" "}

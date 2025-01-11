@@ -9,7 +9,7 @@ function Footer() {
       <h1 className='text-center mb-4 text-2xl text-white'>Mohammad Owais Azizi</h1>
       <div className="flex gap-10 items-center justify-center">
         <a href="https://github.com/MOwaisAzizi" target='_blank'><BsGithub className='text-3xl cursor-pointer text-gray-300  hover:text-blue-500' /></a>
-        <a href="https://www.linkedin.com/in/m-owais-azizi-7440532b4" target='_blank'><BsLinkedin className='text-3xl cursor-pointer text-gray-300  hover:text-blue-600' /></a>
+        <a href="https://www.linkedin.com/in/m-o-azizi" target='_blank'><BsLinkedin className='text-3xl cursor-pointer text-gray-300  hover:text-blue-600' /></a>
         <a href="https://flowcv.com/resume/ao3k3188fp" target='_blank'><FaFileAlt className='text-3xl cursor-pointer text-gray-300 hover:text-blue-500' /></a>
       </div>
 
