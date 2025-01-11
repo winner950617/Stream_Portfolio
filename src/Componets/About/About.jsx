@@ -46,7 +46,7 @@ function About() {
             className="bg-gradient-to-r from-pink-500 to-blue-500 
                      bg-clip-text text-transparent text-2xl font- md:text-3xl"
           >
-            Full Stack Developer
+            Frondend Developer
           </h3>
 
           <p className="md:text-base text-pretty text-sm text-gray-400">
@@ -55,7 +55,7 @@ function About() {
             experience in JavaScript, React , tailwind and more. I focus on
             building responsive, user-friendly web applications. My portfolio
             reflects my commitment to growth and my passion for creating
-            efficient, scalable solutions.
+            efficient and scalable solutions.
           </p>
 
           <Box
