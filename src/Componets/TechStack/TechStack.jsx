@@ -1,6 +1,6 @@
 import { motion } from 'motion/react'
 import React from 'react'
-import {BiLogoHtml5,BiLogoCss3, BiLogoBootstrap,BiLogoTailwindCss, BiLogoJavascript, BiLogoReact, BiLogoNodejs,BiLogoJava,BiLogoMongodb } from 'react-icons/bi'
+import {BiLogoHtml5,BiLogoGit,BiLogoGithub,BiLogoRedux,BiLogoCss3, BiLogoBootstrap,BiLogoTailwindCss, BiLogoJavascript, BiLogoReact, BiLogoNodejs,BiLogoJava,BiLogoMongodb } from 'react-icons/bi'
 import { GrMysql } from 'react-icons/gr'
 import { SiExpress } from 'react-icons/si'
 
@@ -39,6 +39,10 @@ function TechStack() {
                 </motion.div>
 
                 <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
+                  <BiLogoRedux className='cursor-pointer text-[80px] text-blue-300 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
+                </motion.div>
+
+                <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
                   <BiLogoTailwindCss className='cursor-pointer text-[80px] text-blue-400 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
                 </motion.div>
 
@@ -46,8 +50,16 @@ function TechStack() {
                   <BiLogoBootstrap className='cursor-pointer text-[80px] text-purple-500 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
                 </motion.div>
 
+                <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
+                  <BiLogoGit className='cursor-pointer text-[80px] text-red-500 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
+                </motion.div>
 
                 <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
+                  <BiLogoGithub className='cursor-pointer text-[80px] text-white transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
+                </motion.div>
+
+
+                {/* <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
                   <BiLogoNodejs className='cursor-pointer text-[80px] text-green-600 transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
                 </motion.div>
 
@@ -61,7 +73,7 @@ function TechStack() {
                 
                 <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
                   <SiExpress  className='cursor-pointer text-[80px] text-white transition-all duration-300 hover:translate-y-5 sm:text-[100px] md:text-[100px]' />
-                </motion.div>
+                </motion.div> */}
                 
 
                 <motion.div variants={variants} initial="hidden" whileInView="visible" transition={{duration:0.5}}>
