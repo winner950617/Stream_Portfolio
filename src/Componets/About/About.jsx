@@ -50,9 +50,9 @@ function About() {
           </h3>
 
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            I am a full-stack developer in the process of applying
-            my skills in both front-end and back-end technologies. With
-            experience in JavaScript, React, Node.js, and more, I focus on
+            I am a Front-end developer in the process of applying
+            my skills n front-end technologies; With
+            experience in JavaScript, React , tailwind and more. I focus on
             building responsive, user-friendly web applications. My portfolio
             reflects my commitment to growth and my passion for creating
             efficient, scalable solutions.
