@@ -27,30 +27,14 @@ const projectArray=[
 
     {
         image:Lib,
-        title:'Library',
+        title:'Library-Management',
         description:'I developed a user-friendly interface Library management app to store your favorite book in Firebase database and see, search and retrieve after comming later for your books.',
         techstack:["React","CSS","Firebase"],
         dlink:"http://library-isos.vercel.app",
         clink:"https://github.com/MOwaisAzizi/library"
     },
 
-    {
-        image:mapty,
-        title:'Mapty',
-        description:'I developed a mapty website using JavaScrp, featuring a dynamic, user-friendly interface for showing different locations in the world and abilty to store your activity in locations and see it after comming later.',
-        techstack:["HTML","CSS","JavaScript(OOP)"],
-        dlink:"https://mapty-gules.vercel.app",
-        dlink:"https://github.com/MOwaisAzizi/Mapty-ToDoList"
-        
-    },
-    {
-        image:pizza,
-        title:'Pizza',
-        description:'I developed a user-friendly interface Pizza online shope in order to buy your favorite piza, put it in your basket as much as you want and order it if you want.',
-        techstack:["React","CSS","tailwind"],
-        dlink:"https://fast-react-pizza-v2.vercel.app/",
-        clink:"https://github.com/MOwaisAzizi/fast-react-pizza-v2"
-    },
+
     {
         image:shop,
         title:'Online Shope',
@@ -59,6 +43,23 @@ const projectArray=[
         dlink:"http://online-market-phi.vercel.app",
         clink:"https://github.com/MOwaisAzizi/Online-Market"
     },
+    {
+        image:mapty,
+        title:'Mapty',
+        description:'I developed a mapty website using JavaScrp, featuring a dynamic, user-friendly interface for showing different locations in the world and abilty to store your activity in locations and see it after comming later.',
+        techstack:["HTML","CSS","JavaScript(OOP)"],
+        dlink:"https://mapty-gules.vercel.app",
+        clink:"https://github.com/MOwaisAzizi/Mapty-ToDoList"
+        
+    },
+    {
+        image:pizza,
+        title:'Pizza-Shop',
+        description:'I developed a user-friendly interface Pizza online shope in order to buy your favorite piza, put it in your basket as much as you want and order it if you want.',
+        techstack:["React","CSS","tailwind"],
+        dlink:"https://fast-react-pizza-v2.vercel.app/",
+        clink:"https://github.com/MOwaisAzizi/fast-react-pizza-v2"
+    }
 ]
 
 export default projectArray;
