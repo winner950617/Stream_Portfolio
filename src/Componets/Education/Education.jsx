@@ -17,7 +17,7 @@ function Education() {
         initial="hidden"
         whileInView="visible"
         transition={{ duration: 0.5 }}
-        className="text-center text-5xl font-semibold mb-20"
+        className="text-center text-4xl font-semibold text-white md:text-6xl mb-20"
       >
         Eduaction
       </motion.h2>
