@@ -7,7 +7,7 @@ function Footer() {
   return (
     <footer className='bg-black/60 p-5 rounded-sm'>
       <div className='text-center mb-4 text-2xl text-white'>0798267860</div>
-      <div className="flex gap-10 items-center justify-center">
+      <div className="flex gap-8 items-center justify-center">
         <a href="https://github.com/MOwaisAzizi" target='_blank'><BsGithub className='text-3xl cursor-pointer text-gray-300  hover:text-blue-500' /></a>
         <a href="https://www.linkedin.com/in/m-o-azizi" target='_blank'><BsLinkedin className='text-3xl cursor-pointer text-gray-300  hover:text-blue-600' /></a>
         <a href="https://flowcv.com/resume/ao3k3188fp" target='_blank'><FaFileAlt className='text-3xl cursor-pointer text-gray-300 hover:text-blue-500' /></a>
