@@ -95,7 +95,7 @@ function About() {
                     zIndex: 1,
                     transition: "all 0.3s ease-out, box-shadow 0.5s ease-out",
                     "&:hover": {
-                      transform: "scale(1.09)",
+                      transform: "scale(1.1)",
                     },
                     "&::before": {
                       content: '""',
