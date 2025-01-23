@@ -1,6 +1,3 @@
-
-
-
 import * as React from 'react';
 import CssBaseline from '@mui/material/CssBaseline';
 import Box from '@mui/material/Box';
@@ -29,12 +26,11 @@ const Contact = () => {
     initial="hidden"
     whileInView="visible"
     transition={{duration:0.5}} 
-    className="text-white mb-0 flex flex-col md:w-full items-center justify-center p-40 md:pt-30 pt-20" id="contact">
+    className="text-white mb-0 flex flex-col md:w-full items-center justify-center p-20 md:pt-30 pt-20" id="contact">
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="sm">
       <Box
-      
       sx={{ 
   minHeight: '40vh', 
   minWidth:'400px',
@@ -46,7 +42,6 @@ const Contact = () => {
   backgroundSize: '100% 100%, 100% 100%', 
   backgroundPosition: 'center center, left center', 
   backgroundRepeat: 'no-repeat',
-
 }}>
 
           <div className="w-full max-w-md mx-4" >
