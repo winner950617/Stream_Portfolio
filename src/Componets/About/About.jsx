@@ -1,4 +1,3 @@
-import React from "react";
 import myImage from "../../assets/Me.png";
 import { motion } from "motion/react";
 import { Box } from "@mui/material";
