@@ -1,4 +1,3 @@
-import React from 'react'
 import { BsGithub, BsTelegram, BsWhatsapp, BsLinkedin } from 'react-icons/bs'
 import { FaFileAlt } from 'react-icons/fa'
 
