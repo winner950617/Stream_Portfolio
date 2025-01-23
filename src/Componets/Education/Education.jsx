@@ -76,14 +76,14 @@ function Education() {
           </h3>
 
           <ul className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-            Self-paced Learning in Front-End Development I have completed
+            I have completed
             several online courses to enhance my skills in front-end
             development, including:
             <br />
             <ul className=" list-disc">
               <li>Responsive Web Design (FreeCodeCamp)</li>
-              <li>JavaScript Essentials (Udemy)</li>
-              <li>React for Beginners (Udemy)</li>
+              <li>Complete JavaScript(Udemy)</li>
+              <li>Ultimate React Course(Udemy)</li>
             </ul>
             These courses equipped me with practical knowledge and the
             confidence to build modern and responsive web applications.
@@ -114,10 +114,6 @@ function Education() {
                 Specialized in front-end development, gaining practical
                 experience with web technologies such as HTML, CSS, JavaScript,
                 and modern front-end frameworks.
-              </li>
-              <li>
-                Developed skills in responsive design, user interface
-                optimization, and efficient web application development.
               </li>
               <li>
                 Strengthened problem-solving techniques in software engineering,
