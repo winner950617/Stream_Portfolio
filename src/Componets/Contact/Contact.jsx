@@ -145,7 +145,6 @@ const Contact = () => {
                 </Button>
               </div>
             </form>
-
           </div>
         </Box>
       </Container>
