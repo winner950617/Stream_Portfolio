@@ -1,4 +1,3 @@
-import React from 'react'
 import Header from './Componets/Header/Header'
 import About from './Componets/About/About'
 import TechStack from './Componets/TechStack/TechStack'
@@ -6,7 +5,6 @@ import Project from './Componets/Project/Project'
 import Contact from './Componets/Contact/Contact'
 import Footer from './Componets/Footer/Footer'
 import Education from './Componets/Education/Education'
-import { useState } from 'react'
 
 export default function App() {
 
@@ -19,7 +17,6 @@ export default function App() {
 
         <About />
         
-
         <TechStack />
 
         <Project />
