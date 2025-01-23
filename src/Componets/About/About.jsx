@@ -94,9 +94,9 @@ function About() {
                     overflow: "hidden",
                     cursor: "pointer",
                     zIndex: 1,
-                    transition: "background-color 0.3s",
+                    transition: "all 0.3s ease-out, box-shadow 0.5s ease-out",
                     "&:hover": {
-                      backgroundColor: "#1a1a33",
+                      transform: "scale(1.09)",
                     },
                     "&::before": {
                       content: '""',
