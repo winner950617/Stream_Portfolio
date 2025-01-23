@@ -72,21 +72,24 @@ function Education() {
             </svg>
           </span>
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
-            Online Courses and Certifications
+            Frontend In WASSA 
           </h3>
 
           <ul className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-            I have completed
-            several online courses to enhance my skills in front-end
-            development, including:
+            WASSA organization of Herat | 6-month Program
             <br />
             <ul className=" list-disc">
-              <li>Responsive Web Design (FreeCodeCamp)</li>
-              <li>Complete JavaScript(Udemy)</li>
-              <li>Ultimate React Course(Udemy)</li>
+              <li>
+                Specialized in front-end development, gaining practical
+                experience with web technologies such as HTML, CSS, JavaScript,
+                and modern front-end frameworks.
+              </li>
+              <li>
+                Strengthened problem-solving techniques in frontend,
+                applying these skills to build scalable and interactive web
+                solutions.
+              </li>
             </ul>
-            These courses equipped me with practical knowledge and the
-            confidence to build modern and responsive web applications.
           </ul>
         </li>
 
@@ -103,24 +106,21 @@ function Education() {
             </svg>
           </span>
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
-            Specialized Course in CSOFCS
+            Online Courses
           </h3>
 
           <ul className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-            University of Herat | 6-month Program
+            I have completed
+            several online courses to enhance my skills in front-end
+            development, including:
             <br />
             <ul className=" list-disc">
-              <li>
-                Specialized in front-end development, gaining practical
-                experience with web technologies such as HTML, CSS, JavaScript,
-                and modern front-end frameworks.
-              </li>
-              <li>
-                Strengthened problem-solving techniques in software engineering,
-                applying these skills to build scalable and interactive web
-                solutions.
-              </li>
+              <li>Responsive Web Design (FreeCodeCamp)</li>
+              <li>Complete JavaScript(Udemy)</li>
+              <li>Ultimate React Course(Udemy)</li>
             </ul>
+            These courses equipped me with practical knowledge and the
+            confidence to build modern and responsive web applications.
           </ul>
         </li>
       </motion.ol>
