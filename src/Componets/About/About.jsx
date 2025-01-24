@@ -45,7 +45,7 @@ function About() {
             className="bg-gradient-to-r from-pink-500 to-blue-500 
                      bg-clip-text text-transparent text-2xl font- md:text-3xl"
           >
-            Frondend Developer
+            Frond-end Developer
           </h3>
 
           <p className="md:text-base text-pretty text-sm text-gray-400">
