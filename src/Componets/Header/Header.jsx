@@ -150,7 +150,7 @@ function Header() {
             </a>
           </ul>
 
-          <ul className="flex flex-wrap gap-7">
+          <ul className="flex flex-wrap gap-8">
             <a
               href="https://www.linkedin.com/in/m-o-azizi"
               target="_blank"
