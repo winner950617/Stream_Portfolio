@@ -9,7 +9,7 @@ function About() {
   return (
     <section
       id="home"
-      className="px-16 flex min-h-screen w-full 
+      className="px-10 flex min-h-screen w-full 
         items-center justify-center py-28 md:px-32"
     >
       <div className="flex flex-col items-center justify-center gap-10 text-white">
@@ -49,10 +49,9 @@ function About() {
           </h3>
 
           <p className="md:text-base text-pretty text-sm text-gray-400">
-            I am a Front-end developer in the process of applying
-            my skills n front-end technologies; With
-            experience in JavaScript, React , tailwind and more. I focus on
-            building responsive, user-friendly web applications. My portfolio
+          I am a professional front end developer with 2 years of experiences and ability to build highly-scaled,
+           high-quality and user-friendly web applications by using technologies like React, Redux and Tailwind.
+            My portfolio
             reflects my commitment to growth and my passion for creating
             efficient and scalable solutions.
           </p>
