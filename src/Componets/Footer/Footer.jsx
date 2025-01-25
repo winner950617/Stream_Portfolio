@@ -4,7 +4,7 @@ import { FaFileAlt } from 'react-icons/fa'
 //Footer
 function Footer() {
   return (
-    <footer className='bg-black/60 p-5 rounded-sm'>
+    <footer className='bg-black/60 p-6 rounded-sm'>
       <div className='text-center mb-4 text-2xl text-white'>0798267860</div>
       <div className="flex gap-8 items-center justify-center">
         <a href="https://github.com/MOwaisAzizi" target='_blank'><BsGithub className='text-3xl cursor-pointer text-gray-300  hover:text-blue-500' /></a>
