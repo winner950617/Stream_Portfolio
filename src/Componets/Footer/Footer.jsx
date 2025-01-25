@@ -1,7 +1,6 @@
 import { BsGithub, BsTelegram, BsWhatsapp, BsLinkedin } from 'react-icons/bs'
 import { FaFileAlt } from 'react-icons/fa'
 
-//Footer
 function Footer() {
   return (
     <footer className='bg-black/60 p-6 rounded-sm'>
