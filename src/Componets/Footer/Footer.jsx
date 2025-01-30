@@ -2,6 +2,7 @@ import { BsGithub, BsTelegram, BsWhatsapp, BsLinkedin } from 'react-icons/bs'
 import { FaFileAlt } from 'react-icons/fa'
 
 function Footer() {
+
   return (
     <footer className='bg-black/60 p-6 rounded-sm'>
       <div className='text-center mb-4 text-2xl text-white'>0798267860</div>

@@ -15,7 +15,7 @@ export default function App() {
         
         <Header/>
 
-        <About />
+        <About/>
         
         <TechStack />
 
