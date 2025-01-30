@@ -44,15 +44,15 @@ function Education() {
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
             University of Herat
           </h3>
-          <time className=" mb-2 text-base lg:text-lg font-normal leading-none text-gray-400">
+          <time className=" text-base lg:text-lg font-semibold lg:font-normal leading-none text-gray-300">
             Bachelor of Computer Scince(Software Engineering) Degree 
           </time>
-          <span className="mb-2 text-base leading-none text-gray-400">
+          <span className=" text-base leading-none text-gray-300">
              (Undergraduate)
           </span>
           <p className="mb-2 text-base font-normal text-gray-400">
             I am currently pursuing my bachelor&apos;s degree in Software
-            Engineering at the University of Herat, specializing in Front-End
+            Engineering at the University of Herat, specializing in front-end
             Web Development. My studies focus on modern web technologies, user
             experience design, and responsive web development, preparing me to
             excel in the tech industry.
