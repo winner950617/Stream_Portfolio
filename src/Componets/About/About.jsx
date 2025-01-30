@@ -48,7 +48,7 @@ function About() {
             Frond-end Developer
           </h3>
 
-          <p className="md:text-base text-pretty text-sm text-gray-300">
+          <p className="md:text-base text-pretty text-sm text-gray-400">
           I am a professional front end developer with 2 years of experiences and ability to build highly-scaled,
            high-quality and user-friendly web applications by using technologies like React, Redux and Tailwind.
             My portfolio

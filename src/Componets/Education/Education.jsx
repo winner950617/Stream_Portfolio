@@ -44,10 +44,10 @@ function Education() {
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
             University of Herat
           </h3>
-          <time className="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
+          <time className="block mb-2 text-sm font-normal leading-none text-gray-300 dark:text-gray-400">
             Bachelor of Computer Scince(Software Engineering) Degree <br />
           </time>
-          <span className="font-semibold block mb-2 text-sm leading-none text-gray-400 dark:text-gray-500">
+          <span className="font-semibold block mb-2 text-sm leading-none text-gray-300 dark:text-gray-400">
             (Undergraduate)
           </span>
           <p className="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
