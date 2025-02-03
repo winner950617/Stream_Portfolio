@@ -42,7 +42,7 @@ function Education() {
             </svg>
           </span>
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
-            University of Herat
+          Herat University
           </h3>
           <time className=" text-base lg:text-lg font-semibold lg:font-normal leading-none text-gray-300">
             Bachelor of Computer Scince(Software Engineering) Degree 
