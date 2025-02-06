@@ -3,33 +3,9 @@ import { motion } from "motion/react";
 import { Box } from "@mui/material";
 import cvFile from "../../assets/document/CV.pdf";
 import { FaDownload } from "react-icons/fa6";
-// import { useEffect, useRef } from "react";
 
 function About() {
 
-    // const typedRef = useRef(null);
-    // useEffect(() => {
-    //   const script = document.createElement('script');
-    //   script.src = "https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js";
-    //   script.async = true;
-    //   script.onload = () => {
-    //     const options = {
-    //       strings: ["Front-end Developer"],
-    //       typeSpeed: 40,
-    //       backSpeed: 30,
-    //       loop: true,
-    //     };
-    //     new window.Typed(typedRef.current, options);
-    //   };
-  
-    //   document.body.appendChild(script);
-  
-    //   return () => {
-    //     document.body.removeChild(script);
-    //   };
-    // }, []);
-
-  
   return (
     <section
       id="home"
