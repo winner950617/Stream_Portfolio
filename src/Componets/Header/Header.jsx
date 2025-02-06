@@ -13,7 +13,7 @@ function Header() {
   return (
     <nav
       className="fixed top-0 z-10 flex w-full items-center 
-    justify-between bg-black/70 lg:px-5 md:px-0 sm:px-10 px-5 py-6 text-white
+    justify-between bg-black/70 lg:px-5 md:px-0 sm:px-10 px-4 py-6 text-white
     backdrop-blur-md md:justify-evenly"
     >
       <a
