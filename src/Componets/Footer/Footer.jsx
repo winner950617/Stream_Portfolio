@@ -5,7 +5,7 @@ function Footer() {
 
   return (
     <footer className='bg-black/60 p-6 rounded-sm'>
-      <div className='text-center mb-4 text-2xl text-white'>0798267860</div>
+      <div className='text-center mb-4 text-2xl text-white'>+93798267860</div>
       <div className="flex gap-8 items-center justify-center">
         <a href="https://github.com/MOwaisAzizi" target='_blank'><BsGithub className='text-3xl cursor-pointer text-gray-300  hover:text-blue-500' /></a>
         <a href="https://www.linkedin.com/in/m-o-azizi" target='_blank'><BsLinkedin className='text-3xl cursor-pointer text-gray-300  hover:text-blue-600' /></a>

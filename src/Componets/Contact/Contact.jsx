@@ -63,7 +63,6 @@ const Contact = () => {
                   required
                   fullWidth
                   variant="outlined"
-                  // color="secondary" focused
                   sx={{
                     marginBottom: '16px',
                     backgroundColor: 'white',
