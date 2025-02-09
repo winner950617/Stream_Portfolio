@@ -30,7 +30,7 @@ const Contact = () => {
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="sm">
-      <Box
+      <Box 
       sx={{ 
   minHeight: '40vh', 
   minWidth:'400px',
