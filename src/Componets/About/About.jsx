@@ -3,6 +3,7 @@ import { motion } from "motion/react";
 import { Box } from "@mui/material";
 import cvFile from "../../assets/document/CV.pdf";
 import { FaDownload } from "react-icons/fa6";
+import '../../App.css'
 
 function About() {
 
@@ -35,14 +36,14 @@ function About() {
           className="flex max-w[600px] flex-col items-center justify-center gap-3 text-center"
         >
           <h1
-            className="bg-gradient-to-r from-blue-500 to-pink-500 
+            className="text-animation bg-gradient-to-r from-blue-500 to-pink-500 
                      bg-clip-text text-transparent text-4xl font- md:text-6xl"
           >
             Mohammad Owais Azizi
           </h1>
 
           <h3
-            className="bg-gradient-to-r from-pink-500 to-blue-500 
+            className="animate-pulse bg-gradient-to-r from-pink-500 to-blue-500 
                      bg-clip-text text-transparent text-2xl font- md:text-3xl"
           >
             Frond-end Developer

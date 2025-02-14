@@ -107,7 +107,7 @@ const Contact = () => {
                   fullWidth
                   variant="outlined"
                   sx={{
-                    marginBottom: '16px',
+                    marginBottom: '10px',
                     backgroundColor: 'white',
                     borderRadius: '8px',
                     '& .MuiInputBase-root': {
@@ -136,7 +136,9 @@ const Contact = () => {
                 </Button>
               </div>
             </form>
+         
           </div>
+
         </Box>
       </Container>
     </React.Fragment>
