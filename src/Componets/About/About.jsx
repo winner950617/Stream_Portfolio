@@ -36,14 +36,14 @@ function About() {
           className="flex max-w[600px] flex-col items-center justify-center gap-3 text-center"
         >
           <h1
-            className="text-animation bg-gradient-to-r from-blue-500 to-pink-500 
-                     bg-clip-text text-transparent text-4xl font- md:text-6xl"
+            className="bg-gradient-to-r from-blue-500 to-pink-500 
+                     bg-clip-text text-transparent text-3xl font- md:text-5xl"
           >
             Mohammad Owais Azizi
           </h1>
 
           <h3
-            className="animate-pulse bg-gradient-to-r from-pink-500 to-blue-500 
+            className="text-animation animate-pulse bg-gradient-to-r from-pink-500 to-blue-500 
                      bg-clip-text text-transparent text-2xl font- md:text-3xl"
           >
             Frond-end Developer
