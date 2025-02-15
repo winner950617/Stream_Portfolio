@@ -13,3 +13,29 @@ body{
 }
 
 
+/* animation for About Section text */
+
+.text-animation {
+    white-space: nowrap;
+    border-right: 2px solid rgb(151, 149, 149);
+    animation: typing 4s steps(18, end) infinite, blinkCursor 0.6s infinite;
+  }
+  
+  @keyframes typing {
+    0% {
+      width: 0;
+    }
+    50% {
+      width: 18ch;
+    }
+    100% {
+      width: 0;
+    }
+  }
+  
+  @keyframes blinkCursor {
+    50% {
+      border-color: transparent;
+    }
+  }
+  

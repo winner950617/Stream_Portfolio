@@ -3,7 +3,6 @@ import { motion } from "motion/react";
 import { Box } from "@mui/material";
 import cvFile from "../../assets/document/CV.pdf";
 import { FaDownload } from "react-icons/fa6";
-import '../../App.css'
 
 function About() {
 
