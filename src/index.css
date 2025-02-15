@@ -18,7 +18,7 @@ body{
 .text-animation {
     white-space: nowrap;
     border-right: 2px solid rgb(151, 149, 149);
-    animation: typing 4s steps(18, end) infinite, blinkCursor 0.6s infinite;
+    animation: typing 4s steps(17, end) infinite, blinkCursor 1s infinite;
   }
   
   @keyframes typing {
@@ -26,8 +26,11 @@ body{
       width: 0;
     }
     50% {
-      width: 18ch;
+      width: 17ch;
     }
+    80% {
+        width: 17ch;
+      }
     100% {
       width: 0;
     }
