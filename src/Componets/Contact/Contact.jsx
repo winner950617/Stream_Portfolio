@@ -44,7 +44,7 @@ const Contact = () => {
   backgroundRepeat: 'no-repeat',
 }}>
 
-          <div className="w-full max-w-md mx-3" >
+          <div className="w-full max-w-md mx-2 md:mx-3" >
             <Box sx={{ textAlign: 'center', mb: 4 }}>
               <Typography variant="h6" sx={{ color: 'white', mb: 1 }}>
                 Get in touch
