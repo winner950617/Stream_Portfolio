@@ -26,7 +26,7 @@ const Contact = () => {
     initial="hidden"
     whileInView="visible"
     transition={{duration:0.5}} 
-    className="text-white mb-0 flex flex-col md:w-full items-center justify-center p-40 md:pt-30 pt-20" id="contact">
+    className="text-white mb-0 flex flex-col md:w-full items-center justify-center p-20 pt-20" id="contact">
     <React.Fragment>
       <CssBaseline />
       <Container maxWidth="sm">
@@ -44,7 +44,7 @@ const Contact = () => {
   backgroundRepeat: 'no-repeat',
 }}>
 
-          <div className="w-full max-w-md mx-3 " >
+          <div className="w-full max-w-md mx-3" >
             <Box sx={{ textAlign: 'center', mb: 4 }}>
               <Typography variant="h6" sx={{ color: 'white', mb: 1 }}>
                 Get in touch
@@ -136,9 +136,7 @@ const Contact = () => {
                 </Button>
               </div>
             </form>
-         
           </div>
-
         </Box>
       </Container>
     </React.Fragment>
