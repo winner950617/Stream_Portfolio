@@ -35,20 +35,20 @@ function ProjectCard({ project }) {
         justifyContent: "center",
         alignItems: "flex-start",
         gap: "64px",
-        padding: "16px",
+        padding: "16px ",
         flexWrap: "wrap",
       }}
     >
       <Fade in={true} timeout={800}>
         <Card
           sx={{
-            maxWidth: 350,
+            maxWidth: 360,
             borderRadius: "12px",
             backdropFilter: "blur(1px)",
             backgroundColor: "rgba(18, 18, 18, 0.5)",
             boxShadow: "0 4px 20px rgba(255, 255, 255, 0.2)",
             transition: "transform 0.5s ease-out, box-shadow 0.5s ease-out",
-            paddingBottom:'5px',
+            paddingBottom:'8px',
             "&:hover": {
               transform: "scale(1.05)",
               boxShadow: "0 8px 30px rgba(255, 255, 255, 0.3)",
@@ -96,7 +96,7 @@ function ProjectCard({ project }) {
                     sx={{
                       color: "#fff",
                       borderColor: "#00aaff",
-                      margin: "4px",
+                      margin: "3px",
                       marginBottom: "0",
                       fontFamily: "Roboto, sans-serif",
                       fontSize: "12px",
@@ -106,7 +106,7 @@ function ProjectCard({ project }) {
               </div>
             </CardContent>
           </CardActionArea>
-          <CardActions style={{ marginLeft: "13px" }}>
+          <CardActions style={{ marginLeft: "12px" }}>
             <Button
               size="small"
               href={project.dlink}
