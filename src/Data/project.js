@@ -1,64 +1,50 @@
-import weather from '../assets/weather.jpg'
+import AlfredCam from '../assets/AlfredCam.jpg'
 import shop from '../assets/sh.jpg'
 import bank from '../assets/bank.png'
 import mapty from '../assets/Mapty.png'
 import Lib from '../assets/Li.png'
 import pizza from '../assets/pizza.png'
+import Remo from '../assets/Remo.jpg'
+import clickmeeting from '../assets/clickmeeting.jpg'
+import telehealth from '../assets/telehealth.jpg'
 
-const projectArray=[
+const projectArray = [
     {
-        image:weather,
-        title:'Weather App',
-        description:'I developed a responsive weather app using React.js, providing real-time weather updates for all cities in the world with an intuitive and user-friendly interface.',
-        techstack:["React","CSS"],
-        dlink:"https://weather-app-delta-ebon.vercel.app/",
-        clink:"https://github.com/MOwaisAzizi/Weather-App"
+        image: AlfredCam,
+        title: 'Alfred Camera',
+        description: 'Security Camera SDK Platform Development',
+        techstack: ["WebRTC", "FFmpeg", "React", "CSS"],
+        dlink: "https://alfred.camera/",
+        clink: "https://github.com/MOwaisAzizi/Weather-App"
     },
 
     {
-        image:bank,
-        title:'Bank app',
-        description:'I created an interactive bank app using HTML, CSS, and JavaScript, offering a fun and engaging experience with ability to transform money, loaon money and pay money to different accounts(4 build in acounts).',
-        techstack:["HTML","CSS","Bootstrap","JavaScript"],
-        dlink:"http://mowaisazizi.github.io/BankApplication/",
-        clink:"https://github.com/MOwaisAzizi/BankApplication"
-    },
-
-
-    {
-        image:Lib,
-        title:'Library-Management',
-        description:'I developed a user-friendly interface Library management app to store your favorite book in Firebase database and see, search and retrieve after comming later for your books.',
-        techstack:["React","CSS","Firebase"],
-        dlink:"http://library-isos.vercel.app",
-        clink:"https://github.com/MOwaisAzizi/library"
+        image: Remo,
+        title: 'Remo',
+        description: 'Remo.co offers an immersive virtual event experience, allowing users to network, collaborate, and host webinars in an interactive and intuitive virtual environment.',
+        techstack: ["WebRTC", "FFmpeg", "Real Time Stream Processing"],
+        dlink: "https://remo.co/",
+        clink: "https://github.com/MOwaisAzizi/BankApplication"
     },
 
 
     {
-        image:shop,
-        title:'Online Shope',
-        description:'I created an interactive and responsive online Shope using React.js, offering an efficient performance and ability to shope online. It feature seamless navigation, fast load times, and dynamic shope browsing and fake payment.',
-        techstack:["React","CSS",'JavaScript','BootStrap'],
-        dlink:"http://online-market-phi.vercel.app",
-        clink:"https://github.com/MOwaisAzizi/Online-Market"
+        image: clickmeeting,
+        title: 'clickmeeting',
+        description: '',
+        techstack: ["webinar", "webRTC"],
+        dlink: "https://clickmeeting.com/",
+        clink: "https://github.com/MOwaisAzizi/library"
     },
+
+
     {
-        image:mapty,
-        title:'Mapty',
-        description:'I developed a mapty website using JavaScrp, featuring a dynamic, user-friendly interface for showing different locations in the world and abilty to store your activity in locations and see it after comming later.',
-        techstack:["HTML","CSS","JavaScript(OOP)"],
-        dlink:"https://mapty-gules.vercel.app",
-        clink:"https://github.com/MOwaisAzizi/Mapty-ToDoList"
-        
-    },
-    {
-        image:pizza,
-        title:'Pizza-Shop',
-        description:'I developed a user-friendly interface Pizza online shope in order to buy your favorite piza, put it in your basket as much as you want and order it if you want.',
-        techstack:["React","CSS","tailwind"],
-        dlink:"https://fast-react-pizza-v2.vercel.app/",
-        clink:"https://github.com/MOwaisAzizi/fast-react-pizza-v2"
+        image: telehealth,
+        title: 'Public Health',
+        description: '',
+        techstack: ["TeleHealth", "WebRTC", 'TypeScript',],
+        dlink: "https://www.alabamapublichealth.gov/telehealth/index.html",
+        clink: "https://github.com/MOwaisAzizi/Online-Market"
     }
 ]
 

@@ -19,7 +19,7 @@ function Education() {
         transition={{ duration: 0.5 }}
         className="text-center text-4xl font-semibold text-white md:text-6xl mb-20"
       >
-        Eduaction
+        Employment history
       </motion.h2>
 
       <motion.ol
@@ -42,52 +42,32 @@ function Education() {
             </svg>
           </span>
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
-          Herat University
+            Senior Video Streaming Software Engineer
           </h3>
-          <time className=" text-base lg:text-lg font-semibold lg:font-normal leading-none text-gray-300">
-            Bachelor of Computer Scince(Software Engineering) Degree 
+          {/* <time className=" text-base lg:text-lg font-semibold lg:font-normal leading-none text-gray-300">
+            Scalevista– San Francisco, CA | March 2023 – March 2024
           </time>
           <span className=" text-base leading-none text-gray-300">
-             (Undergraduate)
-          </span>
-          <p className="mb-2 text-base font-normal text-gray-400">
-            I am currently pursuing my bachelor&apos;s degree in Software
-            Engineering at the University of Herat, specializing in front-end
-            Web Development. My studies focus on modern web technologies, user
-            experience design, and responsive web development, preparing me to
-            excel in the tech industry.
-          </p>
-        </li>
-
-        <li className="mb-10 ms-6">
-          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
-            <svg
-              className="w-2.5 h-2.5 text-blue-800 dark:text-blue-300"
-              aria-hidden="true"
-              xmlns="http://www.w3.org/2000/svg"
-              fill="currentColor"
-              viewBox="0 0 20 20"
-            >
-              <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z" />
-            </svg>
-          </span>
-          <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
-            Frontend In WASSA 
-          </h3>
-
+            (Undergraduate)
+          </span> */}
+          {/* <p className="mb-2 text-base font-normal text-gray-400">
+            •	Led development of real-time video streaming solutions, enhancing multimedia application performance.
+            •	Integrated WebRTC and GStreamer for low-latency streaming in healthcare and media sectors.
+            •	Designed and implemented a data visualization desktop application, improving user experience by 40%.
+          </p> */}
           <ul className="mb-4 text-base font-normal text-gray-400">
-            WASSA organization of Herat | 6-month Program
+            Scalevista– San Francisco, CA | March 2023 – March 2024
             <br />
             <ul className=" list-disc">
               <li>
-                Specialized in front-end development, gaining practical
-                experience with web technologies such as HTML, CSS, JavaScript,
-                and modern front-end frameworks.
+                Led development of real-time video streaming solutions, enhancing multimedia application performance.
               </li>
               <li>
-                Strengthened problem-solving techniques in frontend,
-                applying these skills to build scalable and interactive web
-                solutions.
+                Integrated WebRTC and GStreamer for low-latency streaming in healthcare and media sectors.
+
+              </li>
+              <li>
+                Designed and implemented a data visualization desktop application, improving user experience by 40%.
               </li>
             </ul>
           </ul>
@@ -106,18 +86,50 @@ function Education() {
             </svg>
           </span>
           <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
-            Online Courses
+            Multimedia Software Engineer
           </h3>
 
           <ul className="mb-4 text-base font-normal text-gray-400">
-            I have completed
-            several online courses to enhance my skills in front-end
-            development, including:
+            OnGraph Technologies – New York, NY  | June 2019 – February 2023
             <br />
             <ul className=" list-disc">
-              <li>Responsive Web Design (FreeCodeCamp)</li>
-              <li>Complete JavaScript(Udemy)</li>
-              <li>Ultimate React Course(Udemy)</li>
+              <li>
+                Spearheaded multimedia processing project using FFmpeg and OpenCV, reducing video processing time by 30%.
+              </li>
+              <li>
+                Developed robust desktop applications in C# and C++, improving stability and responsiveness.
+              </li>
+              <li>
+                Led integration of real-time video streaming using RTSP and HLS for media platforms.
+              </li>
+            </ul>
+          </ul>
+        </li>
+
+        <li className="mb-10 ms-6">
+          <span className="absolute flex items-center justify-center w-6 h-6 bg-blue-100 rounded-full -start-3 ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900">
+            <svg
+              className="w-2.5 h-2.5 text-blue-800 dark:text-blue-300"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="currentColor"
+              viewBox="0 0 20 20"
+            >
+              <path d="M20 4a2 2 0 0 0-2-2h-2V1a1 1 0 0 0-2 0v1h-3V1a1 1 0 0 0-2 0v1H6V1a1 1 0 0 0-2 0v1H2a2 2 0 0 0-2 2v2h20V4ZM0 18a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8H0v10Zm5-8h10a1 1 0 0 1 0 2H5a1 1 0 0 1 0-2Z" />
+            </svg>
+          </span>
+          <h3 className="flex items-center mb-2 ml-2 text-lg font-semibold text-gray-200 dark:text-white">
+            Junior Multimedia Developer
+          </h3>
+
+          <ul className="mb-4 text-base font-normal text-gray-400">
+            MindSea – Halifax, Canada | July 2017 – May 2019
+            <br />
+            <ul className=" list-disc">
+              <li>Assisted in developing desktop applications using C++, Python, and .NET technologies, enhancing workflow automation.
+              </li>
+              <li>Contributed to implementation of video streaming solutions, supporting WebRTC-based applications.</li>
+              <li>Optimized desktop application performance, reducing load times by 20%.</li>
             </ul>
             These courses equipped me with practical knowledge and the
             confidence to build modern and responsive web applications.

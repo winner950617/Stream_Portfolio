@@ -3,40 +3,42 @@
 @tailwind components;
 @tailwind utilities;
 
-html{
-    scroll-behavior: smooth !important;
+html {
+  scroll-behavior: smooth !important;
 }
 
-body{
-    scroll-behavior: smooth;
-    font-family: "Poppins", serif;
+body {
+  scroll-behavior: smooth;
+  font-family: "Poppins", serif;
 }
 
 /* animation for About Section text */
 .text-animation {
-    white-space: nowrap;
-    border-right: 2px solid rgb(151, 149, 149);
-    animation: typing 4s steps(17, end) infinite, blinkCursor 1s infinite;
+  white-space: nowrap;
+  border-right: 2px solid rgb(151, 149, 149);
+  animation: typing 4s steps(17, end) infinite, blinkCursor 1s infinite;
+}
+
+@keyframes typing {
+  0% {
+    width: 0;
   }
-  
-  @keyframes typing {
-    0% {
-      width: 0;
-    }
-    50% {
-      width: 17ch;
-    }
-    75% {
-        width: 17ch;
-      }
-    100% {
-      width: 0;
-    }
+
+  50% {
+    width: 17ch;
   }
-  
-  @keyframes blinkCursor {
-    50% {
-      border-color: transparent;
-    }
+
+  75% {
+    width: 17ch;
   }
-  
+
+  100% {
+    width: 0;
+  }
+}
+
+@keyframes blinkCursor {
+  50% {
+    border-color: transparent;
+  }
+}

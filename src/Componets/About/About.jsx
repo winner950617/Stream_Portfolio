@@ -38,22 +38,22 @@ function About() {
             className="animate-pulse bg-gradient-to-r from-blue-500 to-pink-500 
                      bg-clip-text text-transparent text-3xl font- md:text-5xl"
           >
-            Mohammad Owais Azizi
+            Robert Leo
           </h1>
 
           <h3
             className="text-animation bg-gradient-to-r from-pink-500 to-blue-500 
                      bg-clip-text text-transparent text-2xl font- md:text-3xl"
           >
-            Frond-end Developer
+            Video Straming Deveoper
           </h3>
 
           <p className="text-base lg:text-lg text-pretty text-gray-400">
-          I am a professional frontend developer with 2 years of experiences and ability to build highly-scaled,
-           high-quality and user-friendly web applications by using technologies like React, Redux and Tailwind.
-            My portfolio
-            reflects my commitment to growth and my passion for creating
-            efficient and scalable solutions.
+            Highly skilled and results-driven Desktop Application Developer with extensive experience in creating innovative and
+            efficient software solutions. Proficient in a wide range of programming languages, frameworks, and development tools
+            including C++, C#, Python, and .NET technologies. Adept at designing and implementing desktop applications with a focus
+            on performance, usability, and scalability. Experienced in real-time video streaming solutions, WebRTC, and multimedia
+            processing. Strong problem-solving abilities and a proven track record of delivering high-quality software on time.
           </p>
 
           <Box
