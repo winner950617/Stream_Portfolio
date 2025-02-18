@@ -53,7 +53,7 @@ function Header() {
           className="cursor-pointer opacity-75 transition-all duration-300 hover:opacity-100"
         >
           {" "}
-          <li>Education</li>{" "}
+          <li>Employment History</li>{" "}
         </a>
         <a
           href="#contact"
@@ -65,7 +65,7 @@ function Header() {
       </ul>
 
       <ul className="hidden md:flex gap-10">
-        <a
+        {/* <a
           href="https://www.linkedin.com/in/m-o-azizi"
           target="_blank"
         >
@@ -74,20 +74,20 @@ function Header() {
             {" "}
             <BsLinkedin />{" "}
           </li>
-        </a>
-        <a href="https://github.com/MOwaisAzizi" target="_blank">
+        </a> */}
+        <a href="https://github.com/winner950617" target="_blank">
           <li className="cursor-pointer text-xl opacity-80 transition-all duration-300 hover:text-dark-500 hover:text-sky-500 hover:opacity-100">
             {" "}
             <BsGithub />{" "}
           </li>
         </a>
-        <a href="https://flowcv.com/resume/ao3k3188fp" target="_blank">
+        {/* <a href="https://flowcv.com/resume/ao3k3188fp" target="_blank">
           {" "}
           <li className="cursor-pointer text-xl opacity-80 transition-all duration-300 hover:text-sky-500 hover:opacity-100">
             {" "}
             <FaFileAlt />{" "}
           </li>
-        </a>
+        </a> */}
       </ul>
 
       {/* To handel menu icon active or not in page*/}
@@ -138,7 +138,7 @@ function Header() {
               className="cursor-pointer opacity-75 transition-all duration-300 hover:opacity-100"
             >
               {" "}
-              <li>Education</li>{" "}
+              <li>Employment History</li>{" "}
             </a>
             <a
               href="#contact"

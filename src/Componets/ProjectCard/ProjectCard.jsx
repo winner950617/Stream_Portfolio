@@ -16,18 +16,18 @@ import { motion } from "motion/react";
 
 function ProjectCard({ project }) {
 
-  const variants={
-    hidden:{opacity:0,y:50},
-    visible:{opacity:1,y:0},
-}
+  const variants = {
+    hidden: { opacity: 0, y: 50 },
+    visible: { opacity: 1, y: 0 },
+  }
 
   return (
     <motion.div
 
-     variants={variants}
-    initial="hidden"
-    whileInView="visible"
-    transition={{duration:0.5}}
+      variants={variants}
+      initial="hidden"
+      whileInView="visible"
+      transition={{ duration: 0.5 }}
 
       style={{
         display: "flex",
@@ -48,7 +48,7 @@ function ProjectCard({ project }) {
             backgroundColor: "rgba(18, 18, 18, 0.5)",
             boxShadow: "0 4px 20px rgba(255, 255, 255, 0.2)",
             transition: "transform 0.5s ease-out, box-shadow 0.5s ease-out",
-            paddingBottom:'8px',
+            paddingBottom: '8px',
             "&:hover": {
               transform: "scale(1.05)",
               boxShadow: "0 8px 30px rgba(255, 255, 255, 0.3)",
@@ -132,7 +132,7 @@ function ProjectCard({ project }) {
 
             <Button
               size="small"
-              href={project.clink}
+              // href={project.clink}
               target="_blank"
               sx={{
                 color: "#00aaff",

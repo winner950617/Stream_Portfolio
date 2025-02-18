@@ -45,7 +45,7 @@ function About() {
             className="text-animation bg-gradient-to-r from-pink-500 to-blue-500 
                      bg-clip-text text-transparent text-2xl font- md:text-3xl"
           >
-            Video Straming Deveoper
+            Video Streaming Developer
           </h3>
 
           <p className="text-base lg:text-lg text-pretty text-gray-400">
